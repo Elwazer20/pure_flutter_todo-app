@@ -1,4 +1,4 @@
-# Todo App - A Sleek Task Manager 📋
+# Todo App - Pure Task Manager 📋
 
 Welcome to **Todo App**, a clean and powerful task management app built with Flutter! This project showcases my mastery of `ChangeNotifier` for seamless state management, wrapped in a modern, user-friendly UI. It’s simple, efficient, and ready to shine on GitHub. 🚀
 
